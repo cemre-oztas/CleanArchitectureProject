@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitecture.Application.Features.Command.Product.CreateProduct.UpdateProduct
+namespace CleanArchitecture.Application.Features.Command.Product.UpdateProduct
 {
     internal class UpdateProductCommandResponse
     {
